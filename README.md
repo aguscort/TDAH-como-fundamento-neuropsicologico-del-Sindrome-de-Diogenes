@@ -98,8 +98,8 @@ Las intervenciones tempranas centradas en funciones ejecutivas y balance dopamin
 
 ## Bibliografía
 
-1. Surman CBH, Biederman J, Spencer TJ, et al. Elevated levels of hoarding in ADHD: impact of ADHD symptom severity, inattentiveness and executive function deficits. Journal of Psychiatric Research. 2013;47(8):1125–1130. doi:10.1016/j.jpsychires.2013.04.013 
-2. Hanon C, Pinquier C, Gaddour N, et al. Neuropsychological characteristics of people living in squalor. International Psychogeriatrics. 2004;20(6):1203–1204. 
+1. Surman CBH, Biederman J, Spencer TJ, et al. [Elevated levels of hoarding in ADHD: impact of ADHD symptom severity, inattentiveness and executive function deficits.] (https://pubmed.ncbi.nlm.nih.gov/34923357/) Journal of Psychiatric Research. 2013;47(8):1125–1130. doi:10.1016/j.jpsychires.2013.04.013 
+2. Hanon C, Pinquier C, Gaddour N, et al. [Neuropsychological characteristics of people living in squalor.](https://pubmed.ncbi.nlm.nih.gov/24495835/) International Psychogeriatrics. 2004;20(6):1203–1204. 
 3. American Psychological Association. A review of the literature in clinical and cognitive psychology. 2020. 
 4. Blum K, Liu Y, Wang W, et al. Pro‑dopamine regulator, KB220Z, attenuates hoarding and shopping behavior. PMC Article. 2018. 
 5. Doyle AE, Pelham WE. A cognitive remediation programme for adults with ADHD. Journal of Psychiatric Research. 2002;36(5):EFF. 
