@@ -102,8 +102,8 @@ Las intervenciones tempranas centradas en funciones ejecutivas y balance dopamin
 - Hanon C, Pinquier C, Gaddour N, et al. [Neuropsychological characteristics of people living in squalor.](https://pubmed.ncbi.nlm.nih.gov/24495835/) International Psychogeriatrics. 2004;20(6):1203–1204.  
 - Blum K, Liu Y, Wang W, et al. [Pro‑dopamine regulator, KB220Z, attenuates hoarding and shopping behavior.](https://pubmed.ncbi.nlm.nih.gov/29316800/) PMC Article. 2018. 
 - Doyle AE, Pelham WE. [A cognitive remediation programme for adults with ADHD.](https://pubmed.ncbi.nlm.nih.gov/12225443/) Journal of Psychiatric Research. 2002;36(5):EFF. 
-- Ito K, Kinoshita M, Watari T, et al. Diogenes syndrome in a 10-year retrospective observational study. Int Psychogeriatr. 2021;33(4):537–545. 
-- Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Age-specific prevalence of hoarding and obsessive compulsive symptoms in adults. PMC Article. 2017. 
+- Ito K, Kinoshita M, Watari T, et al. [Diogenes syndrome in a 10-year retrospective observational study.](https://pubmed.ncbi.nlm.nih.gov/34601744/) Int Psychogeriatr. 2021;33(4):537–545. 
+- Cath DC, Nizar K, Boomsma D, Mathews CA. [Age-Specific Prevalence of Hoarding and Obsessive Compulsive Disorder: A Population-Based Study.](https://pubmed.ncbi.nlm.nih.gov/27939851/) Am J Geriatr Psychiatry. 2017 Mar;25(3):245-255. doi: 10.1016/j.jagp.2016.11.006. Epub 2016 Nov 10. PMID: 27939851; PMCID: PMC5316500.
 - Iervolino AC, Perroud N, Fullana MA, et al. Hoarding in attention deficit hyperactivity disorder. Psychiatry Res. 2014;218(1-2):258–264.
 - Hughes C, Weatherburn G. Diogenes Syndrome: Identification and Distinction from Hoarding Disorder. PMC Article. 2022. 
 - Young S, Sedgwick O, Fridman M, et al. ADHD in older adults – a scoping review. Aging Ment Health. 2024. 
