@@ -104,9 +104,8 @@ Las intervenciones tempranas centradas en funciones ejecutivas y balance dopamin
 - Doyle AE, Pelham WE. [A cognitive remediation programme for adults with ADHD.](https://pubmed.ncbi.nlm.nih.gov/12225443/) Journal of Psychiatric Research. 2002;36(5):EFF. 
 - Ito K, Kinoshita M, Watari T, et al. [Diogenes syndrome in a 10-year retrospective observational study.](https://pubmed.ncbi.nlm.nih.gov/34601744/) Int Psychogeriatr. 2021;33(4):537–545. 
 - Cath DC, Nizar K, Boomsma D, Mathews CA. [Age-Specific Prevalence of Hoarding and Obsessive Compulsive Disorder: A Population-Based Study.](https://pubmed.ncbi.nlm.nih.gov/27939851/) Am J Geriatr Psychiatry. 2017 Mar;25(3):245-255. doi: 10.1016/j.jagp.2016.11.006. Epub 2016 Nov 10. PMID: 27939851; PMCID: PMC5316500.
-- Iervolino AC, Perroud N, Fullana MA, et al. Hoarding in attention deficit hyperactivity disorder. Psychiatry Res. 2014;218(1-2):258–264.
-- Hughes C, Weatherburn G. Diogenes Syndrome: Identification and Distinction from Hoarding Disorder. PMC Article. 2022. 
-- Young S, Sedgwick O, Fridman M, et al. ADHD in older adults – a scoping review. Aging Ment Health. 2024. 
+- Hughes C, Weatherburn G. [Diogenes Syndrome: Identification and Distinction from Hoarding Disorder.](https://pubmed.ncbi.nlm.nih.gov/34868693/) PMC Article. 2022. 
+- Fischer S, Nilsen C. [ADHD in older adults - a scoping review.](https://pubmed.ncbi.nlm.nih.gov/38622905/) Aging Ment Health. 2024 Sep;28(9):1189-1196. doi: 10.1080/13607863.2024.2339994. Epub 2024 Apr 15. PMID: 38622905.
 - Blum K, Li L, Baron D, et al. Pro-dopamine regulator, KB220Z, attenuates hoarding: another study. PubMed. 2016. 
 - 1Safren SA, Otto MW, Sprich S, et al. CBT efficacy for older adults with ADHD. J Clin Psychol. 2017. 
 - Frost RO, Steketee G, Tolin DF. Elevated levels of hoarding in ADHD: a special link with inattention. J Anxiety Disord. 2021. 
