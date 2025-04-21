@@ -98,26 +98,25 @@ Las intervenciones tempranas centradas en funciones ejecutivas y balance dopamin
 
 ## Bibliografía
 
-1. Surman CBH, Biederman J, Spencer TJ, et al. [Elevated levels of hoarding in ADHD: impact of ADHD symptom severity, inattentiveness and executive function deficits.] (https://pubmed.ncbi.nlm.nih.gov/34923357/) Journal of Psychiatric Research. 2013;47(8):1125–1130. doi:10.1016/j.jpsychires.2013.04.013 
-2. Hanon C, Pinquier C, Gaddour N, et al. [Neuropsychological characteristics of people living in squalor.](https://pubmed.ncbi.nlm.nih.gov/24495835/) International Psychogeriatrics. 2004;20(6):1203–1204. 
-3. American Psychological Association. A review of the literature in clinical and cognitive psychology. 2020. 
-4. Blum K, Liu Y, Wang W, et al. Pro‑dopamine regulator, KB220Z, attenuates hoarding and shopping behavior. PMC Article. 2018. 
-5. Doyle AE, Pelham WE. A cognitive remediation programme for adults with ADHD. Journal of Psychiatric Research. 2002;36(5):EFF. 
-6. Ito K, Kinoshita M, Watari T, et al. Diogenes syndrome in a 10-year retrospective observational study. Int Psychogeriatr. 2021;33(4):537–545. 
-7. Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Age-specific prevalence of hoarding and obsessive compulsive symptoms in adults. PMC Article. 2017. 
-8. Iervolino AC, Perroud N, Fullana MA, et al. Hoarding in attention deficit hyperactivity disorder. Psychiatry Res. 2014;218(1-2):258–264.
-9. Hughes C, Weatherburn G. Diogenes Syndrome: Identification and Distinction from Hoarding Disorder. PMC Article. 2022. 
-10. Young S, Sedgwick O, Fridman M, et al. ADHD in older adults – a scoping review. Aging Ment Health. 2024. 
-11. Blum K, Li L, Baron D, et al. Pro-dopamine regulator, KB220Z, attenuates hoarding: another study. PubMed. 2016. 
-12. Safren SA, Otto MW, Sprich S, et al. CBT efficacy for older adults with ADHD. J Clin Psychol. 2017. 
-13. Frost RO, Steketee G, Tolin DF. Elevated levels of hoarding in ADHD: a special link with inattention. J Anxiety Disord. 2021. 
-14. Lough S, Kipps CM, Treise C, et al. Living in squalor: neuropsychological function, emotional processing and squalor perception. Int Psychogeriatr. 2009;21(5):821–829. 
-15. Mowlem FD, Skirrow C, Reid P, et al. No lower cognitive functioning in older adults with ADHD. Int J Geriatr Psychiatry. 2024.
-16. Rodriguez P, Smith J, Lee A, et al. Improvement of anxiety in ADHD following goal-focused cognitive remediation. Front Psychol. 2023;14:1212502. 
-17. Mataix-Cols D, Pertusa A, Fullana MA, et al. Prevalence, comorbidity and heritability of hoarding symptoms in adolescence. J Am Acad Child Adolesc Psychiatry. 2013;52(6):631–639. 
-18. Lough S, Hodges JR. Diogenes Syndrome in Frontotemporal Dementia. PMC Article. 2005. 
-19. Báez S, Falcon C, Zamora‐López G, et al. Attentive-executive functioning and compensatory strategies in adult ADHD. Front Psychol. 2022;13:1015102. 
-20. Neale BM, Faraone SV, Asherson P, et al. Molecular genetics of ADHD and implications for reward pathways. Biol Psychiatry. 2023.
-21. Brunoni AR, Vanderhasselt M-A. Combined tDCS and cognitive remediation slowed cognitive decline in older adults. Brain Behav Res Found. 2024. 
-22. Ito K, Miyazaki A, Sato T, et al. Diogenes Syndrome: A transnosographic approach. Psychiatry Clin Neurosci. 2021.
-23. Ivanov VZ, Mataix-Cols D, Serlachius E, et al. The developmental origins of hoarding disorder in adolescence. Eur Child Adolesc Psychiatry. 2020;29(4):487–499.
+Surman CBH, Biederman J, Spencer TJ, et al. [Elevated levels of hoarding in ADHD: impact of ADHD symptom severity, inattentiveness and executive function deficits.](https://pubmed.ncbi.nlm.nih.gov/34923357/) Journal of Psychiatric Research. 2013;47(8):1125–1130. doi:10.1016/j.jpsychires.2013.04.013 
+Hanon C, Pinquier C, Gaddour N, et al. [Neuropsychological characteristics of people living in squalor.](https://pubmed.ncbi.nlm.nih.gov/24495835/) International Psychogeriatrics. 2004;20(6):1203–1204.  
+Blum K, Liu Y, Wang W, et al. [Pro‑dopamine regulator, KB220Z, attenuates hoarding and shopping behavior.](https://pubmed.ncbi.nlm.nih.gov/29316800/) PMC Article. 2018. 
+Doyle AE, Pelham WE. [A cognitive remediation programme for adults with ADHD.](https://pubmed.ncbi.nlm.nih.gov/12225443/) Journal of Psychiatric Research. 2002;36(5):EFF. 
+Ito K, Kinoshita M, Watari T, et al. Diogenes syndrome in a 10-year retrospective observational study. Int Psychogeriatr. 2021;33(4):537–545. 
+Dozier ME, Wetherell JL, Twamley EW, Schiehser DM. Age-specific prevalence of hoarding and obsessive compulsive symptoms in adults. PMC Article. 2017. 
+Iervolino AC, Perroud N, Fullana MA, et al. Hoarding in attention deficit hyperactivity disorder. Psychiatry Res. 2014;218(1-2):258–264.
+Hughes C, Weatherburn G. Diogenes Syndrome: Identification and Distinction from Hoarding Disorder. PMC Article. 2022. 
+Young S, Sedgwick O, Fridman M, et al. ADHD in older adults – a scoping review. Aging Ment Health. 2024. 
+Blum K, Li L, Baron D, et al. Pro-dopamine regulator, KB220Z, attenuates hoarding: another study. PubMed. 2016. 
+1Safren SA, Otto MW, Sprich S, et al. CBT efficacy for older adults with ADHD. J Clin Psychol. 2017. 
+Frost RO, Steketee G, Tolin DF. Elevated levels of hoarding in ADHD: a special link with inattention. J Anxiety Disord. 2021. 
+Lough S, Kipps CM, Treise C, et al. Living in squalor: neuropsychological function, emotional processing and squalor perception. Int Psychogeriatr. 2009;21(5):821–829. 
+Mowlem FD, Skirrow C, Reid P, et al. No lower cognitive functioning in older adults with ADHD. Int J Geriatr Psychiatry. 2024.
+Rodriguez P, Smith J, Lee A, et al. Improvement of anxiety in ADHD following goal-focused cognitive remediation. Front Psychol. 2023;14:1212502. 
+Mataix-Cols D, Pertusa A, Fullana MA, et al. Prevalence, comorbidity and heritability of hoarding symptoms in adolescence. J Am Acad Child Adolesc Psychiatry. 2013;52(6):631–639. 
+Lough S, Hodges JR. Diogenes Syndrome in Frontotemporal Dementia. PMC Article. 2005. 
+Báez S, Falcon C, Zamora‐López G, et al. Attentive-executive functioning and compensatory strategies in adult ADHD. Front Psychol. 2022;13:1015102. 
+Neale BM, Faraone SV, Asherson P, et al. Molecular genetics of ADHD and implications for reward pathways. Biol Psychiatry. 2023.
+Brunoni AR, Vanderhasselt M-A. Combined tDCS and cognitive remediation slowed cognitive decline in older adults. Brain Behav Res Found. 2024. 
+Ito K, Miyazaki A, Sato T, et al. Diogenes Syndrome: A transnosographic approach. Psychiatry Clin Neurosci. 2021.
+Ivanov VZ, Mataix-Cols D, Serlachius E, et al. The developmental origins of hoarding disorder in adolescence. Eur Child Adolesc Psychiatry. 2020;29(4):487–499.
